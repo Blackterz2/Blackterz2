@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM252N25nOG1yazU3eGNkZWFyd3RjMndrZGl0dXp2Mng1dG56eDRzcyZlcD12MV9pbnRlcm5hbF9naWZfY2F0cz0xJmN0PWc/3o6ozvW6kL7x0zT1zO/giphy.gif](https://images.steamusercontent.com/ugc/384287337108940732/5274F537AB1EB2931720931D769D33747775B8B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" alt="Luffy GIF" width="300"/>
+  <img src="https://onepiece.fandom.com/es/wiki/Monkey_D._Luffy?file=Luffy_20_a%C3%B1os.png" alt="Luffy" width="300"/>
 </p>
 
 <h1 align="center">¡Hola a todos! 👋 Soy Blackterz</h1>
